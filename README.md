@@ -7,4 +7,4 @@
 - 📫 How to reach me:
   - *[Discord](https://discord.gg/Dx2QgMx7Sv)*
 - ⚡ Fun fact:
-  - Too funny to post here
+  - *Too funny to post here*
