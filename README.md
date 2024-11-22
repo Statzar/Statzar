@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on:
-  - *[Mu-Qcom](https://github.com/Robotix22/Mu-Qcom) - Support fog, pipa and spes*
+  - *[Mu-Silicium](https://github.com/Project-Silicium/Mu-Silicium) - Support SM6225 devices*
 - 🌱 I’m currently learning:
   - law
 - 📫 How to reach me:
